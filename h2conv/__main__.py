@@ -2,12 +2,13 @@ if __debug__:
     breakpoint()
 
 from .startup import *
-from .filter import Filter
+from .convert import Convert
 
 if __name__ == '__main__':
     # print(PROGRAM)
     log.info(f'Executing {PROGRAM} ...')
     
-    p = Filter()
+    p = Convert()
+    p.run()
     
     # log.info(f'Execution complete.')

@@ -1,0 +1,14 @@
+<pattern>
+  <name>Old Pattern Name</name>
+  <size>192</size>
+  <noteList>
+    <note>
+      <position>0</position>
+      <velocity>100</velocity>
+      <length>48</length>
+      <instrument>1</instrument>
+    </note>
+    ...
+  </noteList>
+</pattern>
+
