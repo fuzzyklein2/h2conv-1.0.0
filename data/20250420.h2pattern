@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pattern version="1.4.2">
+  <name>KickOn1and3</name>
+  <author>YourName</author>
+  <category>Test</category>
+  <resolution>16</resolution>
+  <size>16</size>
+  <tempo>123.0</tempo>
+  <time_signature>
+    <numerator>4</numerator>
+    <denominator>4</denominator>
+  </time_signature>
+  <note>
+    <position>0</position> <!-- Beat 1 -->
+    <velocity>0.8</velocity>
+    <length>0.000</length>
+    <instrument>0</instrument>
+  </note>
+  <note>
+    <position>8</position> <!-- Beat 3 -->
+    <velocity>0.8</velocity>
+    <length>0.000</length>
+    <instrument>0</instrument>
+  </note>
+</pattern>

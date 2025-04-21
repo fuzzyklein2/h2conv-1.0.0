@@ -1,11 +1,2 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<drumkit_pattern xmlns="http://www.hydrogen-music.org/drumkit_pattern"><drumkit_name>GMRockKit</drumkit_name><author>hydrogen</author><license>undefined license</license><pattern><name /><info /><category>not_categorized</category><size /><denominator>4</denominator><noteList>
-    <note>
-      <position>0</position>
-      <velocity>100</velocity>
-      <length>48</length>
-      <instrument>1</instrument>
-    </note>
-    ...
-  </noteList>
-</pattern></drumkit_pattern>
+<drumkit_pattern xmlns="http://www.hydrogen-music.org/drumkit_pattern"><drumkit_name>GMRockKit</drumkit_name><author>hydrogen</author><license>undefined license</license><pattern><name /><info /><category>not_categorized</category><size /><denominator>4</denominator><noteList /></pattern></drumkit_pattern>
